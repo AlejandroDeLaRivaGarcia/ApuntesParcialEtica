@@ -7,8 +7,8 @@
 **Factores generadores de elementos éticos:** Educación, formación, profesión, costumbres y libertad.
 -------
 ## Formación y espiritu universitario
-**Cualidades especiales del espiritu universitario:** Estudio, esfuerzo, dedicación, colaboración, objetividad, análisis y trabajo en equipo.
-**Naturaleza de las cualidades:** Cualidades humanas que todos poseemos, la unviersidad permite ejercitarlas; sin embargo hay personas no universitarias que las tienen y universitarios que carecen de ellas.
+- **Cualidades especiales del espiritu universitario:** Estudio, esfuerzo, dedicación, colaboración, objetividad, análisis y trabajo en equipo.
+- **Naturaleza de las cualidades:** Cualidades humanas que todos poseemos, la unviersidad permite ejercitarlas; sin embargo hay personas no universitarias que las tienen y universitarios que carecen de ellas.
 ------
 #### Objetivos de la universidad
 - Formar profesionales
@@ -25,24 +25,24 @@
 
 -------
 ## Vocación
-**Vocación:** Deseo extrañable hacia lo que uno quiere convertirse en el futuro
-**Mentalidad de servicio** Asociado a la vocación y constituye la guía del buen profesional
+- **Vocación:** Deseo extrañable hacia lo que uno quiere convertirse en el futuro
+- **Mentalidad de servicio** Asociado a la vocación y constituye la guía del buen profesional
 ------
 ## Costumbre
-**Costumbre:** Serie de normas creadas en una sociedad por su continuidad, que otorgan un hecho jurídico palpable, consideradas como leyes y llevan consencuencias si se violan
-**Regla profesional** No todo lo que se viola está escrito, y no todo lo que la sociedad repudia está en las leyes. También no todo lo que un profesional hace está bien
+- **Costumbre:** Serie de normas creadas en una sociedad por su continuidad, que otorgan un hecho jurídico palpable, consideradas como leyes y llevan consencuencias si se violan
+- **Regla profesional** No todo lo que se viola está escrito, y no todo lo que la sociedad repudia está en las leyes. También no todo lo que un profesional hace está bien
 ------
 ## Responsabilidad y criterio 
-**Responsabilidad:** Compromete a cada persona que no puede abandonarse a sus conveniencias personales
-**Fundamento:** La libertad de la voluntad. Afecta a una persona, colectivo o entidad que es responsable
-**Criterio** Resultado de la reflexión acerca de cosas, llegando a formar parte de la personalidad
+- **Responsabilidad:** Compromete a cada persona que no puede abandonarse a sus conveniencias personales
+- **Fundamento:** La libertad de la voluntad. Afecta a una persona, colectivo o entidad que es responsable
+- **Criterio** Resultado de la reflexión acerca de cosas, llegando a formar parte de la personalidad
 -----
 
 ## Libertad
-**Definición:** Facultad natural que tiene el hombre de obrar a una manera
-**Derecho Romano:** La libertad es la facultad de hacer lo que el derecho permite
-**Ejercicio de la libertad** Se es más libre cuando con más claridad se descubre la verdad encerrada en los términos de una elección
-**Manipulación:** Consecuencia de no saber aplicar libertad por falta de hábito crítico y reflexión
+- **Definición:** Facultad natural que tiene el hombre de obrar a una manera
+- **Derecho Romano:** La libertad es la facultad de hacer lo que el derecho permite
+- **Ejercicio de la libertad** Se es más libre cuando con más claridad se descubre la verdad encerrada en los términos de una elección
+- **Manipulación:** Consecuencia de no saber aplicar libertad por falta de hábito crítico y reflexión
 -----
 ## Ética profesional y Deontología
 **Ética profesional:** Normas y principios que rigen la conducta profesional. Regula las actividades realizadas. Disciplina de ética aplicada.
