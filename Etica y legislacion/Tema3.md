@@ -1,7 +1,8 @@
 # Introducción
 **Propósito:** Enfocarse en cómo se planean, organizan, dirigen y controla los bienes informáticos para la optimización de costos. 
 
-**Pirámide de inversión tecnológica:** De mayor a menor inversión abarca: Hardware -> Software -> Preparación de usuarios -> Infraestructura -> Soporte. El costo no finaliza con la adquisición
+**Pirámide de inversión tecnológica:** De mayor a menor inversión abarca: Hardware -> Software -> Preparación de usuarios 
+-> Infraestructura -> Soporte. El costo no finaliza con la adquisición
 
 # Recursos financieros
 **Planificación y presupuestos anuales:** Con responsables de area se deben elaborar presupuestos de operación para los centros de procesos de datos (CDP)
@@ -12,14 +13,13 @@
 - Gastos de mantenimiento/adecuación de inmuebles y material de oficina.
 - Contratación de proveedores de servicios, externalizaciones y servicios de personal/nomina
 - Gastos asociados a la seguridad y cualquier otro gasto
-- 
 **Acciones de apoyo presupuestario:** Diseñar políticas y herramientas de control de gastos, actualizar normativas, realizar auditorias internas, etc.
 
 ## Recursos materiales
 - **Definición:** Objetos tangibles usados para facilitar labores en áreas con equipos tecnológicos
 - **Administración ética:** Requiere control estricto para verificar su uso correcto y calidad adecuada. Diseñas procedimientos eficientes, actualizar normativas, elaborar programas operativos anuales.
 ------
-#Recursos Hardware
+## Recursos Hardware
 **Definición** Componentes físico de una computadora, servidor o granjas de servidores, que realizan tareas de entrada, procesamiento, salida de datos, almacenamiento de información
 
 **Calisificación:** 
