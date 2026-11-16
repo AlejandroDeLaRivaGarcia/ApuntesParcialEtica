@@ -51,7 +51,7 @@
 - Planificación: Diagnóstico, pronóstico, selección de alternativas, estructura programática.
 - Dirección: Elemento activo para establecer objetivos, proveer servicioes esenciales y mantener comunicación
 - Control: Establecer coordinación, sistemas información, estándares y evaluación
-- 
+  
 **Atención al usuario:** El usuario es pieza clave del éxito/fracaso. Requiere un punto único de contacto.
   
 **Código ético de la gestión** División del trabajo, autoridad, disciplina, unidad de dirección, unidad de mando, subordinación de interés  individual al bien común
