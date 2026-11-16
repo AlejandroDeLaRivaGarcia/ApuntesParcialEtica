@@ -45,10 +45,10 @@
 - **Manipulación:** Consecuencia de no saber aplicar libertad por falta de hábito crítico y reflexión
 -----
 ## Ética profesional y Deontología
-**Ética profesional:** Normas y principios que rigen la conducta profesional. Regula las actividades realizadas. Disciplina de ética aplicada.
-**Ordenes de aplicación** Orden especulativo y orden práctico
-**Carácter** No es coactiva, incluida en los códigos deontológicos
-**Deontología** Conjunto de normas que indican cómo debe de actuar los profesionales de un área determinada
+- **Ética profesional:** Normas y principios que rigen la conducta profesional. Regula las actividades realizadas. Disciplina de ética aplicada.
+- **Ordenes de aplicación** Orden especulativo y orden práctico
+- **Carácter** No es coactiva, incluida en los códigos deontológicos
+- **Deontología** Conjunto de normas que indican cómo debe de actuar los profesionales de un área determinada
 
 
 
