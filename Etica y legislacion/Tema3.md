@@ -1,7 +1,8 @@
 # Introducción
 **Propósito:** Enfocarse en cómo se planean, organizan, dirigen y controla los bienes informáticos para la optimización de costos. 
 
-**Pirámide de inversión tecnológica:** De mayor a menor inversión abarca: Hardware -> Software -> Preparación de usuarios -> Infraestructura -> Soporte. El costo no finaliza con la adquisición
+**Pirámide de inversión tecnológica:** De mayor a menor inversión abarca: Hardware -> Software -> Preparación de usuarios 
+-> Infraestructura -> Soporte. El costo no finaliza con la adquisición
 
 # Recursos financieros
 **Planificación y presupuestos anuales:** Con responsables de area se deben elaborar presupuestos de operación para los centros de procesos de datos (CDP)
