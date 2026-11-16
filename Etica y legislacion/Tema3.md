@@ -12,14 +12,13 @@
 - Gastos de mantenimiento/adecuación de inmuebles y material de oficina.
 - Contratación de proveedores de servicios, externalizaciones y servicios de personal/nomina
 - Gastos asociados a la seguridad y cualquier otro gasto
-- 
 **Acciones de apoyo presupuestario:** Diseñar políticas y herramientas de control de gastos, actualizar normativas, realizar auditorias internas, etc.
 
 ## Recursos materiales
 - **Definición:** Objetos tangibles usados para facilitar labores en áreas con equipos tecnológicos
 - **Administración ética:** Requiere control estricto para verificar su uso correcto y calidad adecuada. Diseñas procedimientos eficientes, actualizar normativas, elaborar programas operativos anuales.
 ------
-#Recursos Hardware
+## Recursos Hardware
 **Definición** Componentes físico de una computadora, servidor o granjas de servidores, que realizan tareas de entrada, procesamiento, salida de datos, almacenamiento de información
 
 **Calisificación:** 
