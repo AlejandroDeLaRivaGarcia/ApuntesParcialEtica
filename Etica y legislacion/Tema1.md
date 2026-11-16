@@ -16,12 +16,12 @@
 **Necesidades de la sociedad:** Personas con rasgos universitarios  bien arraigados para contrarrestar las tendenciales actuales
 ---------
 ## Carácter profesional:
-**Profesión:** Ocupación que se desarrolla con el fin de colaborar con el bien de la sociedad.
-**Profesional:** Persona que ejerce profesión
-**Carácter profesional:** Traslado de las inquietudes personales a la profesión con el objetivo de mejorarlas
-**Perfil del buen profesion:** Da razón a lo que piensa, no es mediocre, innova, no es deshonesto, convicciones claras 
-**Ventajas de su cultivo:** Afán de perfeccionamiento, convicción profesional, y continua mejora
-**Riesgo de su ignorancia:** Ser mediocre y deshonesto
+- **Profesión:** Ocupación que se desarrolla con el fin de colaborar con el bien de la sociedad.
+- **Profesional:** Persona que ejerce profesión
+- **Carácter profesional:** Traslado de las inquietudes personales a la profesión con el objetivo de mejorarlas
+- **Perfil del buen profesion:** Da razón a lo que piensa, no es mediocre, innova, no es deshonesto, convicciones claras 
+- **Ventajas de su cultivo:** Afán de perfeccionamiento, convicción profesional, y continua mejora
+- **Riesgo de su ignorancia:** Ser mediocre y deshonesto
 
 -------
 ## Vocación
