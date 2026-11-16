@@ -14,7 +14,9 @@
 
 ## Ética informática
 **Definción:** Analiza problemas éticos creados, transformados, agravados por la tecnología, ademas del impacto social, formulando y justificando teorías para su uso ético.
+
 **Obejtivos:** Descubrir dilemas éticos, analizar relación con la tecnología, marcos conceptuales, principios de actuación
+
 **Areas que requieren ética:**
 -Utilización de la información
 -Lo informático como nueva forma de bien o propiedad
