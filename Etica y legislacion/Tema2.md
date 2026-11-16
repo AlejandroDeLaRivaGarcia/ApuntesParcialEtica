@@ -1,7 +1,7 @@
 # Introducción y Perspectiva Ética en la Automatización
-**Profesional de sistemas:** Personas relacionadas con la informaática cuyo objetivo es velar que se cumplan los objetivos de automatizar el procesamiento de la información con ética
-**Perspectiva ética en la automatización:** Aprende a convivir con la tecnología, cuyos conflictos tales como afectar estilo de vida, costumbres, deshumanizar procesos atentar contra la privacidad se evitan
-**Sociedad de la información y el conocimiento:** Transición que genera problemas morales por la difusión acelerada de la información, similares a los de la energía radiactiva
+- **Profesional de sistemas:** Personas relacionadas con la informaática cuyo objetivo es velar que se cumplan los objetivos de automatizar el procesamiento de la información con ética
+- **Perspectiva ética en la automatización:** Aprende a convivir con la tecnología, cuyos conflictos tales como afectar estilo de vida, costumbres, deshumanizar procesos atentar contra la privacidad se evitan
+- **Sociedad de la información y el conocimiento:** Transición que genera problemas morales por la difusión acelerada de la información, similares a los de la energía radiactiva
 ----
 ## Valores éticos en los sistemas de información
 **Involucrados y responsabilidades:**
