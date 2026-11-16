@@ -13,6 +13,7 @@
 #### Objetivos de la universidad
 - Formar profesionales
 - Dimensión humana: Que los profesionales sean éticos en su trabajo
+  
 **Necesidades de la sociedad:** Personas con rasgos universitarios  bien arraigados para contrarrestar las tendenciales actuales
 ---------
 ## Carácter profesional:
