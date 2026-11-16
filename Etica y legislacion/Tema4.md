@@ -6,13 +6,18 @@
 - Pena: La ejecución debe estar sancionada por una pena
 
 **Informática:** Conjunto de técnicas destinadas al tratamiento lógico y automático de la información para una mejor toma de decisiones
+
 **Delitos informáticos:** Actitudes ilicitas en que se tienen a las computadoras como instrumento o fin.
+
 **Características:** Delitos de cuello blanco, ocupacionales, de oportunidad, con pérdidas económicas elevadas, de rápida consumición. 
+
 **Por qué los grandes sistemas son objetivo** Tratan volúmenes masivos de datos sensibles, interviene poco personal, objetos magnéticos son fáciles de alterar o borrar, son impersonales, rigidos, presentan vacíos de diseño
 
 ## Alcances y limitaciones
 **Alcances** Presencia de la informática de todos los campos, crecimiento del comercio electrónico
+
 **Limitaciones** Dificultad para tipificar debido al desconocimiento técnico, falta de cultura informática, rol limitado del auditor informático y el hecho de que el peligro radica en los individuos  que buscan poder mediante la tecnología.
+
 **Sujeto del delito:**
 - Sujeto activo: El que realiza el delito
 - Sujeto Pasivo: Titular del bien jurídico protegido
@@ -38,11 +43,14 @@
 
 ## Seguridad contra el Delito Informático y Valor Probatorio
 **Requisitos de seguridad (Esquema Nacional de Seguridad - ENS):** Autentificación, autorización, confidencialidad, integridad de datos, disponibilidad  y controles de acceso.
+
 **Controles funcionales del sistema:** Identificación, autentificación, autorización, delegación, seguimiento y reconocimiento.
+
 ## Medidas de prevención (Auditoría y control):
 - Diseño de una política de seguridad integral
 - Procedimiento de auditoría: identificación de activos, evaluación de amenazas, análisis de riesgos, y medidas preventivas.
 - Controles preventivos adicionales: Exámenes psicométricos, cláusulas contractuales, código ético interno, control estricto de accesoscapacitación, rotación de claves, uso de firmas digitales, firewalls y herramientas de monitorización.
+
 **Valor probatorio de soportes informáticos:**
 - Regulado en la ley de enjuiciamiento civil (LEC 1/2000, art.299), admitiendo instrumentos de reproducción de palabras, datos, cifras y operaciones matemáticas.
 - Ley 59/2003 de firma electrónica: Modifica el art.326 de la LEC para regular el valor de los documentos electrónicos.
@@ -50,7 +58,9 @@
 
 ## Peritajes informáticos
 **Definción:** Da soportes a expertos u organizaciones en la resolucion de litigios judiciales. El perito nombrado por un juez actúa auxiliar de la justicia.
+
 **Areas de requerimiento:** Propiedad industrial/intelectual, revelación de secretos, competencia desleal, vulneración de intimidad, despidos tecnológicos, valoración de bienes, delitos económicos, estafas y pornografía infantil.
+
 **Metodología del peritaje:**
 1. Análisis de situación: Estudio de viabilidad, presupuesto y provición de fondos firmada.
 2. Investigación e informe: Recogida de evidencias, copias clónicas, redacción y visado del informe pericial, y cobro previo a la entrega.
