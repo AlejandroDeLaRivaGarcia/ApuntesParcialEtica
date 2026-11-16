@@ -6,13 +6,13 @@
 
 **Factores generadores de elementos éticos:** Educación, formación, profesión, costumbres y libertad.
 -------
-##Formación y espiritu universitario
+## Formación y espiritu universitario
 **Cualidades especiales del espiritu universitario:** Estudio, esfuerzo, dedicación, colaboración, objetividad, análisis y trabajo en equipo.
 **Naturaleza de las cualidades:** Cualidades humanas que todos poseemos, la unviersidad permite ejercitarlas; sin embargo hay personas no universitarias que las tienen y universitarios que carecen de ellas.
 ------
 #### Objetivos de la universidad
--Formar profesionales
--Dimensión humana: Que los profesionales sean éticos en su trabajo
+- Formar profesionales
+- Dimensión humana: Que los profesionales sean éticos en su trabajo
 **Necesidades de la sociedad:** Personas con rasgos universitarios  bien arraigados para contrarrestar las tendenciales actuales
 ---------
 ## Carácter profesional:
